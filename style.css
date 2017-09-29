@@ -1,0 +1,28 @@
+#mail {
+  color: #6a5a48;
+  font-family: verdana;
+}
+#povezava {
+  color: #021a4b;
+  font-family: book antiqua italic;
+  font-size: 20px
+}
+.slika {
+  padding: 20px;
+  border: 2px #6a5a48 solid;
+}
+.slika:hover {
+  padding: 20px;
+  border: 3px #021a4b dotted;
+}
+.naslov {
+  font-family: book antiqua italic;
+  color: #021a4b;
+}
+.odstavek{
+  font-family: verdana;
+  color: #6a5a48;
+}
+.body {
+  background-color: #e0d9d1;
+}
